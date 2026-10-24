@@ -1,6 +1,9 @@
 # CiviTwin AI — Flood Preparedness Planner
 
 A runnable prototype based on the uploaded CiviTwin AI presentation. It connects road inspection, rainfall/waterlogging risk, drainage blockage, road damage, vulnerability, road importance, GIS-style visualization, prioritized action planning, and CSV reports.
+## Live Demo
+
+[Launch CiviTwin AI](https://civitwin-ai-sbdpptscwpbyc4esth5myt.streamlit.app/)
 
 ## Features implemented
 1. Road photograph upload.
